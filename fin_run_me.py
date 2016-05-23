@@ -1,8 +1,3 @@
-###
-#
-#Author: Ran Cheng
-###
-
 
 import numpy as np
 
