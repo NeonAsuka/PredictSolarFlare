@@ -1,8 +1,8 @@
 ###
-#Final Project of CS589
+#
 #Author: Ran Cheng
 ###
-#all of the code starts here
+
 
 import numpy as np
 
